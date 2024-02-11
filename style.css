@@ -1,11 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Protest+Strike&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poor+Story&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Protest+Guerrilla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
 
 body {
   margin: 0;
   padding: 0;
-  background-image: url("bg1.jpg");
+  background-image: url("zed.jpg");
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -35,7 +37,7 @@ body {
  }
 #countdown {
   font-size: 4em;
-  font-family: 'Protest Revolution', sans-serif;
+  font-family: 'Protest Guerrilla', sans-serif;
   
   margin-top: 20px;
 }
@@ -59,7 +61,7 @@ body {
 
 .typing-container {
   text-align: center;
-  font-family: 'Poor Story', system-ui;
+  font-family: 'Outfit', sans-serif;
   color: white;
 }
 
