@@ -33,7 +33,11 @@ body {
  }
 
  h2{
-  color: white;
+    font-family: 'Protest Strike', sans-serif;
+    color: rgb(255, 255, 255);
+    letter-spacing: 2px;
+}
+
  }
 #countdown {
   font-size: 4em;
